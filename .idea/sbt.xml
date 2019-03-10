@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaSbtSettings">
+    <option name="customLauncherEnabled" value="true" />
+    <option name="customLauncherPath" value="D:\scala\sbt\install\bin\sbt-launch.jar" />
+    <option name="customVMEnabled" value="true" />
+    <option name="customVMPath" value="C:/Program Files/Java/jdk1.8.0_131" />
+    <option name="maximumHeapSize" value="512" />
+    <option name="vmParameters" value="-XX:MaxPermSize=512M -Dsbt.log.format=true -Dsbt.global.base=D:/scala/sbt/data/.sbt -Dsbt.ivy.home=D:/scala/sbt/data/.ivy2 -Dsbt.boot.directory=D:/scala/sbt/data/boot/ -Dsbt.repository.config=D:/scala/sbt/conf/repo.properties" />
+  </component>
+</project>
